@@ -1,0 +1,11 @@
+.Links {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    margin-top: 20px;
+
+}
+
+.Links__Link {
+    margin-right: 20px;
+}

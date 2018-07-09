@@ -1,0 +1,9 @@
+.Contact {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFsQRRqSsB9UPn8M4N8omfkWoA-ExVfdH4ka1mS18qc-0AMCO0');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 480px;
+    width: 700px;
+    margin-left: 350px;
+    border-radius: 20px;
+}

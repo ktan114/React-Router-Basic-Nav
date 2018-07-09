@@ -1,0 +1,13 @@
+.About {
+    background-image: url('http://ngscinc.com/wp-content/uploads/2013/07/about-banner.jpg');
+    background-size: auto;
+    height: 300px;
+    width: 900px;
+    margin-left: 260px;
+    border-radius: 20px;
+    color: brown;
+}
+
+h1 {
+    font-weight: bold;
+}
